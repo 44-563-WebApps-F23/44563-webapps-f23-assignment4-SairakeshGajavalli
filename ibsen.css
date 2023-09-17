@@ -1,0 +1,38 @@
+*{
+    background-color: aliceblue;
+}
+body{
+    font-family: cursive;
+}
+.speech{
+    font-size: 25px;
+    color: black;
+}
+.direction {
+    width: fit-content;
+    font-size: 24px;
+    color: black;
+    background-color: lightgray;
+    transition: background-color 0.3s, color 0.3s;
+}
+.direction:hover {
+    background-color: cornflowerblue;
+    color: white;
+}
+.MRS_SOLNESS{
+    color: cornflowerblue;
+}
+.MRS_SOLNESS:hover{
+    text-shadow:2px 3px 5px grey;
+    border: 1px dotted black;
+}
+.HILDA{
+    color:chocolate;
+}
+.HILDA:hover{
+    text-shadow:2px 3px 5px grey;
+    border: 1px dotted black;
+}
+.char-name{
+    width: fit-content;
+}
